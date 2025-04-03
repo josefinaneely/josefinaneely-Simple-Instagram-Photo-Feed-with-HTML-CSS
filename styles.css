@@ -1,0 +1,23 @@
+body{
+    background: gray;
+    margin:0
+    
+}
+
+header {background:white;}
+
+.post {background:white;}
+
+header h1 {
+  margin: 0;
+}
+
+div.container{
+  width:6000px;
+  margin: auto;
+  
+ }
+ 
+ div.post img{
+   width:1000px;
+ }
