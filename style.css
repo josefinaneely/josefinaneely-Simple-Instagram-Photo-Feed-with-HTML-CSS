@@ -1,0 +1,47 @@
+body {
+    background: white;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+.post {
+    width: 300px;
+    border: 2px green solid;
+    border-radius: 10px;
+}
+
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+    padding: 10px;
+}
+
+
+.card-header i {
+    margin-right: 10px;
+}
+
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.card-footer {
+    padding: 10px;
+}
+
+
+.actions {
+    display: flex;
+    gap: 15px;
+}
+
+.description {
+    margin-top: 5px;
+}
